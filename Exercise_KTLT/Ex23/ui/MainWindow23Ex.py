@@ -4,13 +4,14 @@ from Exercise_KTLT.Ex23.ui.MainWindow23 import Ui_MainWindow
 
 
 class MainWindow23Ex(Ui_MainWindow):
+    def __init__(self):
+        self.revenue = 0
+        self.total_cus = 0
+        self.total_stu = 0
     def setupUi(self,MainWindow):
         super().setupUi(MainWindow)
         self.MainWindow=MainWindow
         self.setupSignalAndSlot()
-        self.revenue=0
-        self.total_cus=0
-        self.total_stu=0
     def showWindow(self):
         self.MainWindow.show()
     def setupSignalAndSlot(self):
