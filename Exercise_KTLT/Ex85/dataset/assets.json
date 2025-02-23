@@ -1,0 +1,32 @@
+[
+    {
+        "AssetId": "A1",
+        "AssetName": "Led Monitor",
+        "ImportYear": 2019,
+        "Value": 200
+    },
+    {
+        "AssetId": "A2",
+        "AssetName": "Laptop 1",
+        "ImportYear": 2015,
+        "Value": 10
+    },
+    {
+        "AssetId": "A3",
+        "AssetName": "Projector 1",
+        "ImportYear": 208,
+        "Value": 8
+    },
+    {
+        "AssetId": "A4",
+        "AssetName": "Laptop 2",
+        "ImportYear": 2010,
+        "Value": 11
+    },
+    {
+        "AssetId": "A5",
+        "AssetName": "Car 1",
+        "ImportYear": 2017,
+        "Value": 700
+    }
+]
